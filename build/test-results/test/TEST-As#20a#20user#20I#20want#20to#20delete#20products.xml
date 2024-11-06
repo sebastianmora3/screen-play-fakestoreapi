@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="As a user I want to delete products" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-11-06T03:21:36" hostname="DESKTOP-OGQ68JO" time="3.875">
+<testsuite name="As a user I want to delete products" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-11-06T12:40:39" hostname="DESKTOP-OGQ68JO" time="3.893">
   <properties/>
-  <testcase name="Delete an existing product successfully" classname="As a user I want to delete products" time="2.977"/>
-  <testcase name="Try to delete a non-existent product" classname="As a user I want to delete products" time="0.898"/>
+  <testcase name="Delete an existing product successfully" classname="As a user I want to delete products" time="3.045"/>
+  <testcase name="Try to delete a non-existent product" classname="As a user I want to delete products" time="0.848"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[[Test worker] INFO  - 
   _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  

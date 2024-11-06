@@ -28,7 +28,7 @@ public class GetProductsStepDefinition {
         usuario.attemptsTo(ConnectTo.theService());
     }
     @When("I get the information of products")
-    public void iGetTheInformationOfIndustry() {
+    public void iGetTheInformationOfProducts() {
         usuario.attemptsTo(ConsumerThe.service());
     }
     @Then("I can see all information about the products")
